@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Alison 👋
 
-<!--
-**AlisonMatheus/AlisonMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't just like technology.
 
-Here are some ideas to get you started:
+I like understanding how technology works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building **How Things Work**, a long-term project where I investigate and recreate real-world systems from scratch.
+
+From networking and cloud computing to reverse engineering, every project I build starts with a simple question:
+
+> "How does this actually work?"
+
+---
+
+## 🔬 Current Project
+
+🧩 How Things Work
+
+A long-term repository where I investigate real-world technologies by rebuilding them from scratch.
+
+---
+
+## 💡 My Philosophy
+
+I don't learn by following tutorials.
+
+I learn by asking questions, experimenting, breaking things and rebuilding them.
+
+Every answer creates a new question.
+
+---
+
+## 🚀 Currently Learning
+
+• Cloud Computing
+
+• Linux
+
+• Networking
+
+• Python
+
+• System Design
+
+---
+
+> "Stay curious."
+
+Welcome to my laboratory.
