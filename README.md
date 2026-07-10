@@ -1,4 +1,6 @@
-# Hi, I'm Alison 👋
+#🔬 Welcome to my laboratory.
+
+Hi, I'm Alison 👋
 
 I don't just like technology.
 
@@ -46,4 +48,3 @@ Every answer creates a new question.
 
 > "Stay curious."
 
-Welcome to my laboratory.
