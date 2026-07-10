@@ -1,4 +1,4 @@
-# Welcome to my laboratory.
+# 🔬 Welcome to my Laboratory.
 
 Hi, I'm Alison 👋
 
